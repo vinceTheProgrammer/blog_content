@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/tail-recursion-with-trampoline/index.md",
+                "file": "blog/Blogging with Obsidian/blogging_with_obsidian.md.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "blogging_with_obsidian.md"
             }
           }
         ]
@@ -176,20 +176,27 @@
   },
   "active": "1d1ba1c0c1f4fe14",
   "lastOpenFiles": [
-    "blog/tail-recursion-with-trampoline/banner.webp",
+    "blog/Blogging with Obsidian/screenshot.png",
     "blog/_index.md",
-    "_index.md",
+    "blog/Blogging with Obsidian/blogging_with_obsidian.md.md",
+    "blog/Blogging with Obsidian",
+    "blog/audio-player-shortcode/banner.webp",
+    "blog/tail-recursion-with-trampoline/index.md",
     "pages/_index.md",
     "pages/about.md",
     "pages/attributions.md",
-    "pages/imprint.md",
     "pages/privacy.md",
     "pages/search.md",
     "pages/terms.md",
-    "blog/calculating-internal-interest-rate/index.md",
-    "blog/audio-player-shortcode/index.md",
-    "blog/audio-player-shortcode/audio.mp3",
+    "blog/game-of-fifteen/index.md",
+    "_index.md",
     "blog/game-of-fifteen/game-of-fifteen.js",
+    "blog/mermaid/index.md",
+    "blog/audio-player-shortcode/index.md",
+    "blog/tail-recursion-with-trampoline/banner.webp",
+    "pages/imprint.md",
+    "blog/calculating-internal-interest-rate/index.md",
+    "blog/audio-player-shortcode/audio.mp3",
     "blog/calculating-internal-interest-rate/irr-npv-function-dark.webp"
   ]
 }
