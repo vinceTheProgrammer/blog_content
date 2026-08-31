@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/about.md",
+                "file": "blog/tail-recursion-with-trampoline/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/about.md",
+            "file": "blog/tail-recursion-with-trampoline/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,12 +170,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "1d1ba1c0c1f4fe14",
   "lastOpenFiles": [
+    "blog/tail-recursion-with-trampoline/banner.webp",
+    "blog/_index.md",
+    "_index.md",
+    "pages/_index.md",
+    "pages/about.md",
+    "pages/attributions.md",
+    "pages/imprint.md",
+    "pages/privacy.md",
+    "pages/search.md",
+    "pages/terms.md",
+    "blog/calculating-internal-interest-rate/index.md",
+    "blog/audio-player-shortcode/index.md",
     "blog/audio-player-shortcode/audio.mp3",
+    "blog/game-of-fifteen/game-of-fifteen.js",
     "blog/calculating-internal-interest-rate/irr-npv-function-dark.webp"
   ]
 }
