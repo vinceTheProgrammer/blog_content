@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Blogging with Obsidian/blogging_with_obsidian.md.md",
+                "file": "blog/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "blogging_with_obsidian.md"
+              "title": "_index"
             }
           }
         ]
@@ -174,13 +174,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "1d1ba1c0c1f4fe14",
+  "active": "21b4252785e51d7f",
   "lastOpenFiles": [
-    "blog/Blogging with Obsidian/obsidian.webp",
-    "blog/Blogging with Obsidian/screenshot.png",
+    "blog/blogging-with-obsidian/blogging_with_obsidian.md.md",
+    "blog/blogging-with-obsidian/obsidian.webp",
+    "blog/blogging-with-obsidian/screenshot.png",
     "blog/_index.md",
-    "blog/Blogging with Obsidian/blogging_with_obsidian.md.md",
-    "blog/Blogging with Obsidian",
+    "blog/blogging-with-obsidian",
     "blog/audio-player-shortcode/banner.webp",
     "blog/tail-recursion-with-trampoline/index.md",
     "pages/_index.md",
