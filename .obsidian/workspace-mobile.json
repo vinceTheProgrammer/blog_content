@@ -11,14 +11,12 @@
             "id": "1d1ba1c0c1f4fe14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "pages/attributions.md",
-                "mode": "source",
-                "source": true
+                "file": "blog/game-of-fifteen/game-of-fifteen.js"
               },
               "icon": "lucide-file",
-              "title": "attributions"
+              "title": "game-of-fifteen"
             }
           }
         ]
@@ -176,21 +174,21 @@
   },
   "active": "1d1ba1c0c1f4fe14",
   "lastOpenFiles": [
+    "blog/blogging-with-obsidian/index.md",
+    "blog/blogging-with-obsidian/screenshot.png",
     "blog/game-of-fifteen/index.md",
+    "pages/attributions.md",
     "blog/game-of-fifteen/game-of-fifteen.js",
     "blog/game-of-fifteen/banner.webp",
     "blog/game-of-fifteen",
     "_index.md",
     "blog/_index.md",
-    "blog/blogging-with-obsidian/blogging_with_obsidian.md.md",
     "blog/blogging-with-obsidian/obsidian.webp",
-    "blog/blogging-with-obsidian/screenshot.png",
     "blog/blogging-with-obsidian",
     "blog/audio-player-shortcode/banner.webp",
     "blog/tail-recursion-with-trampoline/index.md",
     "pages/_index.md",
     "pages/about.md",
-    "pages/attributions.md",
     "pages/privacy.md",
     "pages/search.md",
     "pages/terms.md",
